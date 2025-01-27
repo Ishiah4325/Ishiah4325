@@ -28,13 +28,38 @@ Hi, I'm Ishiah Scott!
 	<a href="https://www.linkedin.com/in/ishiah-scott-752221347"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
 	<a href="https://github.com/Ishiah4325"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
 </p>
-<h2 id="️-my-favorite-tools">🛠️ My Favorite Tools</h2>
-<h3 id="-programming-languages">👨‍💻 Programming Languages</h3>
-<p>
-    <a href="https://github.com/Ishiah4325"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-	<a href="https://github.com/Ishiah4325"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?logo=typescript&amp;logoColor=black" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-</p><h3 id="-frameworks-and-libraries">🧰 Frameworks and Libraries</h3>
+<h2 id="️-my-favorite-tools">🛠️ My Skills</h2>
+
+<h3 id="-programming-languages">👉 Programming languages</h3>
+<p align="left"> 
+    
+  <a href="https://github.com/Ishiah4325">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-%232F8CBB.svg?logo=csharp&logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;">
+</a>
+   
+  <a href="#"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black" data-nsfw-filter-status="sfw" style="visibility: visible;">
+   </a>
+
+ <a href="#">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%232B6CB0.svg?logo=typescript&logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;">
+</a>
+   
+  <a href="#"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;">
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Swift-%23F05138.svg?logo=swift&logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;">
+</a>
+   
+   <a href="#">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;">
+  </a>
+   
+</p>
+
+<h3 id="-frameworks-and-libraries">🧰 Frameworks and Libraries</h3>
 <p>
     <a href="https://github.com/Ishiah4325"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
     <a href="https://github.com/Ishiah4325"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
