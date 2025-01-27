@@ -105,7 +105,7 @@ Hi, I'm Ishiah Scott!
   <tbody><tr>
   <td width="50%" valign="top">
 <h2 id="lets-work-on-your-project-together">Let’s Work on Your Project Together!</h2>
-<p>If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.</p>
+<p>If you have any questions about front-end web development, feel free to <a href="mailto:ishiahS4325@hotmail.com">contact me through email</a> me.</p>
 <p>You can hire me as a freelancer on <a href="https://www.linkedin.com/in/ishiah-scott-752221347">LinkedIn</a> to deploy your machine learning project on web.</p>
   </td>
   <td width="50%" valign="top">
