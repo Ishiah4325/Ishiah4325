@@ -32,57 +32,42 @@ Hi, I'm Ishiah Scott!
 
 <h3 id="-programming-languages">👉 Programming languages</h3>
 <p align="left"> 
-    
-  <a href="https://github.com/Ishiah4325">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-%232F8CBB.svg?logo=csharp&logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;">
-</a>
-   
-  <a href="#"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black" data-nsfw-filter-status="sfw" style="visibility: visible;">
-   </a>
-
- <a href="#">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%232B6CB0.svg?logo=typescript&logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;">
-</a>
-   
-  <a href="#"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;">
-  </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Swift-%23F05138.svg?logo=swift&logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;">
-</a>
-   
-   <a href="#">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;">
-  </a>
-   
+	<a href="https://github.com/Ishiah4325"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Swift" src="https://img.shields.io/badge/Swift-%23FA7343.svg?logo=swift&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
 </p>
 
 <h3 id="-frameworks-and-libraries">🧰 Frameworks and Libraries</h3>
-<p>
-    <a href="https://github.com/Ishiah4325"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
+<p align="left"> 
+	<a href="https://github.com/Ishiah4325"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?logo=tailwindcss&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vue.js&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?logo=react&logoColor=black"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Android" src="https://img.shields.io/badge/Android-%233DDC84.svg?logo=android&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white"></a>
+	
 </p>
-<h3 id="️-databases-and-cloud-hosting">🗄️ Databases and Cloud Hosting</h3>
-<p>
-    <a href="https://github.com/Ishiah4325"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
+<h3 id="️-databases-and-cloud-hosting">🗄️ Databases</h3>
+<p align="left"> 
+	<a href="https://github.com/Ishiah4325"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23D24D26.svg?logo=redis&logoColor=white"></a>
 </p>
-<h3 id="-software-and-tools">💻 Software and Tools</h3>
-<p>
-    <a href="https://github.com/Ishiah4325"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
-    <a href="https://github.com/Ishiah4325"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white" data-nsfw-filter-status="sfw" style="visibility: visible;"></a>
+<h3 id="-software-and-tools">💻 Tools</h3>
+<p align="left"> 
+	<a href="https://github.com/Ishiah4325"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white"></a>
+	<a href="https://github.com/Ishiah4325"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=googlecloud&logoColor=white"></a>
 </p>
 <br>
 <!--
@@ -92,7 +77,7 @@ Hi, I'm Ishiah Scott!
     <a href="https://github.com/Ishiah4325"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 -->
-<h2 id="-github-stats"><a href="https://github.com/Ishiah4325"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30" data-nsfw-filter-status="sfw" style="visibility: visible;"></a> GitHub Stats</h2>
+<h2 id="-github-stats">📊 GitHub Stats</h2>
 <br>
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
 <br>
