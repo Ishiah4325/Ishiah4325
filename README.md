@@ -13,14 +13,11 @@ Hi, I'm Ishiah Scott!
 	</a>
 </p>
 <hr>
-<pre>💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning &amp; Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+<pre>💻 I'm Senior Mobile Application Developer
+📝 I have a strong interest in Mobile app development and Blockchain technology
+🔭 Working on mobile app development
+🌱 Learning about Blockchain technology
+🌟 Main languages: Java, JavaScript
 </pre>
 <hr>
 <h2 id="-connect-with-me">🤝 Connect with me</h2>
