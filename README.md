@@ -1,5 +1,5 @@
   <h1 align="center">
-Hi, I'm Ishiah Scott!
+Hi, I'm Senior Mobile developer!
 	<a href="https://github.com/Ishiah4325" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" data-nsfw-filter-status="sfw" style="visibility: visible;">
 	</a>
